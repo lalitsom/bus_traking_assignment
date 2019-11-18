@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusRoutes</string>
+    <string name="search_hint">Search Stops, Route Name</string>
+    <string name="noRoute_Error">Unable to Fetch Routes.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
